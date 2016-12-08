@@ -1,10 +1,12 @@
 # Original ReadMe:
-# "EntityManager
+"EntityManager
   
 Author: **[milk0417](https://github.com/milk0417)**  
   
 Sorry, but this project is Deprecated  
 [EntityManager-Nukkit](https://github.com/SW-Team/EntityManager) "
+
+# Not Anymore!
 
 I am taking it up again and am trying to get it to work again for PMMP.
 
